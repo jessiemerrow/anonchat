@@ -1,23 +1,5 @@
 <!--
 
-/**
-		   Simple Anonymous Chat v1.2
-		Core created by: Kenrick Beckett
-		   Modified by: Akito Iwakura
-		      http://sekkyoku.org
-		  Modified by: Klyubin Timofey
-		   http://hammer_dance.vk.com
-**/
-
-
--->
-<?php
-
-/**
-List of changes in v1.2 (06.01.2013):
- - Preparing URL's fixed (more than 3 character in top-level domain's name)
- - Simple antispam has added (if a message goes after the same message, the message becomes blocked)
- - The salt has updated :3
 **/
 
 /*
