@@ -1,12 +1,5 @@
 <?php
-/**
-		   Simple Anonymous Chat v1.2
-		Core created by: Kenrick Beckett
-		   Modified by: Akito Iwakura
-		       http://sekkyoku.org
-		  Modified by: Klyubin Timofey
-		   http://hammer_dance.vk.com
-**/
+/**bitch anon chat**/
 
 /*
 	This is the Chat Processing module.
