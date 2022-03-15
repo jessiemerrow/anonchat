@@ -1,13 +1,4 @@
 <?
-/**
-		   Simple Anonymous Chat v1.2
-		Core created by: Kenrick Beckett
-		   Modified by: Akito Iwakura
-		      http://sekkyoku.org
-		  Modified by: Klyubin Timofey
-		   http://hammer_dance.vk.com
-**/
-
 /*
 	This is the functions library.
 	Allows to generate unique nicknames.
